@@ -14,3 +14,14 @@
 ## Запуск решения
 Для оценки точности решения создан скрипт "validation.py". 
 Подготовлен Docker-файл с образом, воспроизводящим решение.
+
+## Веса моделей
+Для запуска программы необходимо скачать и поместить в папку weights файлы из https://disk.yandex.ru/d/wt_IsZT-gRUozQ.\
+Итоговая структура папки weights:\
+**weights:** 
+* ViT-L-14.pt
+* yolov8_train:
+  * train.pt
+* yolov8_objects:
+  * objects.pt
+  * objects_m.pt
