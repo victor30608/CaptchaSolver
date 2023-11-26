@@ -1,0 +1,5 @@
+__pycache__
+.idea
+/weights/ViT-L-14.pt
+/weights/yolov8_objects
+/weights/yolov8_train

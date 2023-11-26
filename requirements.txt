@@ -1,0 +1,10 @@
+torch>=1.7.0
+torchvision>=0.8.1
+ultralytics==8.0.215
+shapely
+
+opencv-python
+opencv-contrib-python
+
+openai-clip
+dill
